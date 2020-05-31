@@ -1,7 +1,8 @@
 # Data understanding in ML project
 
-In this project we will apply statistical methods to understand HR_Analytics dataset and come up with feature 
+In this project we will apply statistical methods to understand IOT sensor dataset and come up with feature 
 combination list which can used while building models
+
 >One of the important steps in ML project is understanding the data(features).
 #### Possible types of features are
 1. Continuous
@@ -18,3 +19,4 @@ combination list which can used while building models
   
 This module can be tested on any dataset after applying required preprocessing (Eg: Convert DateTime variables)  
   
+ #### Input File : IOT_train.csv
